@@ -3,7 +3,7 @@ name = "SigmaOS-archlinux-tpm2-abrmd"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "archlinux-tpm2-abrmd component"
+description = "SigmaOS component repository"
 upstream = []
 
 [contract]
